@@ -2,9 +2,9 @@
 
 ## Informations Étudiant
 
-- **Nom :**   
+- **Nom : TINMAZ**   
 
-- **Prénom :**   
+- **Prénom : Eda**   
 
   
 
