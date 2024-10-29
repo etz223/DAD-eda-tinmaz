@@ -2,9 +2,9 @@
 
 ## Informations Étudiant
 
-- **Nom : TINMAZ**   
+- **Nom :** TINMAZ  
 
-- **Prénom : Eda**   
+- **Prénom :** Eda  
 
   
 
@@ -12,7 +12,8 @@
 
 ### Présentation Personnelle
 
-//Décrivez en quelques phrases vos objectifs à cours terme et long terme si vou en avez : 
+//Décrivez en quelques phrases vos objectifs à cours terme et long terme si vous en avez : 
+ Je souhaite approfondir mes connaissances sur les outils numériques. 
 
 ### Compétences Actuelles
 
@@ -22,15 +23,15 @@
 
 **CODING**
 
-**GIT ET VERSIONNING**
+**GIT ET VERSIONNING** 0/20
 
-**INTERACTIVITÉ ET RENDU TEMPS RÉEL**
+**INTERACTIVITÉ ET RENDU TEMPS RÉEL** 10/20
 
-**GRAPHISME ET DESIGN D'INTERFACE**
+**GRAPHISME ET DESIGN D'INTERFACE** 12/20
 
-**INSTALLATION ET MISE EN ESPACE**
+**INSTALLATION ET MISE EN ESPACE** 10/20
 
-**PRÉSENTATION ET ARGUMENTATION**
+**PRÉSENTATION ET ARGUMENTATION** 11/20
 
 
 
