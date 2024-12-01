@@ -1,2 +1,3 @@
-![fini1](https://github.com/user-attachments/assets/6624780b-df9f-419e-a6d6-4b1dd08223f8)
-![pattern10](https://github.com/user-attachments/assets/673bfefb-1eff-40d7-b05b-a42bc288077d)
+
+![pattern10](https://github.com/user-attachments/assets/4bab885f-bda2-4463-ac37-2024647f5fb4)
+![pattern9](https://github.com/user-attachments/assets/7d6402ec-c3b9-403b-b042-efa84613c5ef)
