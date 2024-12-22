@@ -51,25 +51,72 @@ Comprendre les types de symboles
 Comprendre comment créer plusieurs assemblages à partir des mêmes formes
 
 Dessin vectoriel de killim
-*expilcation* +
-*img*
+*expilcation* <br> <br>
+<img src="img/vecto/Component 1.png" alt="" width="80%">
+
+> Union
+
+<img src="img/vecto/Component 2.png" alt="" width="80%">
+
+>Elibelinde
+
+<img src="img/vecto/Component 4.png" alt="" width="80%">
+
+> Bereket
+
+<img src="img/vecto/Component 5.png" alt="" width="80%">
+
+> Scoprion mais avec même base
+
+<img src="img/vecto/Component 6.png" alt="" width="80%">
+
+> Monster's feet
+
+<img src="img/vecto/Component 7.png" alt="" width="80%">
+
+> Tarnak
+
+<img src="img/vecto/Component 8.png" alt="" width="80%">
+
+> Eye
+
+<img src="img/vecto/Component 9.png" alt="" width="80%">
+
+> Bukagi
+
+<img src="img/vecto/Component 10.png" alt="" width="70%">
+
+> Bereket
+
+
+
+
 Travail d'assemblage de forme 
 Travail sur un style de pixel, rendre le kilim 
 
 **IA experimentation ** <br>
 J’utilise l’IA pour générer des symboles de kilim que j’intègre ensuite dans différents projets. Ce processus examine si les technologies modernes peuvent imiter la création de motifs traditionnels et dans quelle mesure ces styles restent reconnaissables. Cependant, les dessins générés par l’IA introduisent souvent une divergence unique de la réalité, ce qui entraîne une réinterprétation fascinante des motifs traditionnels.
-*img*
 
-IA critique
-Proposition de pattern kilim par une intelligence artificielle, Mid Journey 
-Utilisation de prompt "Generate me a symbol elibelinde of kilim" ou "Create a turkish modern pattern, add more pixel style "--tile"
-le paramètre “--tile” permet de créer une image qui pourra se répéter
+<img src="img/groupeIA/groupe1.png" alt="" width="100%">
+
+> Proposition de pattern kilim par une intelligence artificielle, Mid Journey 
+> Utilisation de prompt "Generate me a symbol elibelinde of kilim" 
+> Le paramètre “--tile” permet de créer une image qui pourra se répéter
+
+<img src="img/groupeIA/groupe1-1.png" alt="" width="100%">
+
+> prompt
+> 
+
+<img src="img/groupeIA/groupe3.png" alt="" width="100%">
+
+### IA critique
 Voir les connaissances de l'IA au sujet des kilim
 
 ### Wave function 
 Code qui permet de faire répéter une image sur VS Code 
     https://www.youtube.com/watch?v=rI_y2GAlQFM
-  Utilisation de mes dessins vectoriels pour le faire répéter en code 
+Utilisation de mes dessins vectoriels pour le faire répéter en code 
 Utilisation des motifs générer par IA pour le faire répéter en code 
 
 *img*
@@ -78,11 +125,15 @@ Utilisation des motifs générer par IA pour le faire répéter en code
 Ahmed Faig 
 
 ### Accrochage 
-aide de bastien
+<img src="img/autres/accrochage.jpg" alt="" width="80%">
+
+> Aide de Bastien afin de bien définir l'emplacement de chaque motif en élaborant des catégoris.
 
 ### Tissages
 
-*img*
+<img src="img/autres/tissage1.jpeg" alt="" width="40%"> <img src="img/autres/tissage2.jpeg" alt="" width="40%">
+
+> Tissage à partir des modèles des symboles véctorisés
 
 
 ### Sujet de mémoire
