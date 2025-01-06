@@ -50,6 +50,13 @@ Imaginer des nouveaux kilims en dessin
 Comprendre les types de symboles
 Comprendre comment créer plusieurs assemblages à partir des mêmes formes
 
+<img src="img/dessin carnet/dessin1.png" alt="" width="30%"> <img src="img/dessin carnet/dessin2.png" alt="" width="30%"> <img src="img/dessin carnet/dessin3.png" alt="" width="30%">
+> dessin format 20 x 20cm, aquarelle et crayons de couleurs.
+
+<img src="img/dessin carnet/petit1.png" alt="" width="20%"> <img src="img/dessin carnet/petit2.png" alt="" width="20%"><img src="img/dessin carnet/petit3.png" alt="" width="20%"><img src="img/dessin carnet/petit4.png" alt="" width="20%"><img src="img/dessin carnet/petit5.png" alt="" width="20%"> <img src="img/dessin carnet/petit6.png" alt="" width="20%"> <img src="img/dessin carnet/petit7.png" alt="" width="20%">
+> dessin petit format 10 x 7cm, techniques mixtes. 
+
+
 Dessin vectoriel de killim
 *expilcation* <br> <br>
 <img src="img/vecto/Component 1.png" alt="" width="80%">
@@ -87,8 +94,6 @@ Dessin vectoriel de killim
 <img src="img/vecto/Component 10.png" alt="" width="70%">
 
 > Bereket
-
-
 
 
 Travail d'assemblage de forme 
@@ -131,7 +136,8 @@ Ahmed Faig
 
 ### Tissages
 
-<img src="img/autres/tissage1.jpeg" alt="" width="40%"> <img src="img/autres/tissage2.jpeg" alt="" width="40%">
+<img src="img/tissage/tissagevague.png" alt="" width="30%"> <img src="img/tissage/tissagetigre.png" alt="" width="30%"> <img src="img/tissage/tissagescorpion.png" alt="" width="30%">
+<img src="img/tissage/tissagerien.png" alt="" width="30%"> <img src="img/tissage/tissagefroid.png" alt="" width="30%">
 
 > Tissage à partir des modèles des symboles véctorisés
 
