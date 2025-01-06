@@ -130,7 +130,7 @@ Utilisation des motifs générer par IA pour le faire répéter en code
 Ahmed Faig 
 
 ### Accrochage 
-<img src="img/autres/accrochage.jpg" alt="" width="80%">
+<img src="img/install/testinstall.png" alt="" width="40%">
 
 > Aide de Bastien afin de bien définir l'emplacement de chaque motif en élaborant des catégoris.
 
@@ -145,14 +145,18 @@ Ahmed Faig
 ### Sujet de mémoire
 **Scan 3D**
 
-### Sujet sur le langage
+### Sujet sur le langage (sujet de recherche pour Venya et Valérie).
 **Travail sur la traduction**
++ mettre audio / video
 
 
 ### Discussion + Aide 
-**Bastien**
-**Valérie**
-**Lita**
+**Bastien** + ref donné par Bastien 
+**Valérie** 
+**Lita** + ref ia pour code
+**Anne-Sophie**
+
+
 
 
 
