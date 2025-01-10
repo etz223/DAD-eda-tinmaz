@@ -153,8 +153,10 @@ Ahmed Faig
 ### Discussion + Aide 
 **Bastien** + ref donné par Bastien 
 **Valérie** 
-**Lita** + ref ia pour code
+**Lita** + ref ia pour code Claude
 **Anne-Sophie**
+**Hind**
+
 
 
 
