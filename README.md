@@ -169,6 +169,12 @@ https://drive.google.com/drive/folders/133gYCp3KrFpMIJVp0k1zx2G0NHu9E1UW?usp=dri
 ChatGPT, par exemple, fonctionne mieux lorsque les consignes sont claires et détaillées, mais il peut également présenter des dysfonctionnements qui perturbent les échanges. 
 Il est essentiel de comprendre et de s’adapter au rythme de la discussion, car l’IA peut répondre trop rapidement, interrompre la conversation, ou au contraire répondre avec du retard.
 Bien que l’intelligence artificielle puisse offrir une solution intéressante pour la traduction, elle n’est pas encore entièrement adaptée à mes exigences pour ce projet.  
+
+### Installation 
+
+<img src="img/install/install.jpeg" alt="" width="60%">
+Accrocher les essais avec de la laine donne cette aspect de grand tissage
+
   
 ### Discussion + Aide 
 
