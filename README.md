@@ -106,9 +106,6 @@ J’utilise l’IA pour générer des symboles de kilim que j’intègre ensuite
 
 <img src="img/groupeIA/groupe1-1.png" alt="" width="100%">
 
-> prompt
-> 
-
 <img src="img/groupeIA/groupe3.png" alt="" width="100%">
 
 ### Wave function 
