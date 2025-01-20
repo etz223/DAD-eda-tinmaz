@@ -175,6 +175,9 @@ Bien que l’intelligence artificielle puisse offrir une solution intéressante 
 <img src="img/install/install.jpeg" alt="" width="60%">
 Accrocher les essais avec de la laine donne cette aspect de grand tissage
 
+[Télécharger pour voir test au plotter 1](img/dessin%20carnet/plotter1.mp4) <br>
+[Télécharger pour voir test au plotter 2](img/dessin%20carnet/plotter2.mp4) <br>
+[Télécharger pour voir test au plotter 3](img/dessin%20carnet/plotter3.mp4) <br>
   
 ### Discussion + Aide 
 
