@@ -57,11 +57,7 @@ Comprendre comment créer plusieurs assemblages à partir des mêmes formes
 > dessin petit format 10 x 7cm, techniques mixtes. 
 
 
-Dessin vectoriel de killim
-*expilcation* <br> <br>
-<img src="img/vecto/Component 1.png" alt="" width="80%">
-
-> Union
+Dessin vectoriel de killim <br> <br>
 
 <img src="img/vecto/Component 2.png" alt="" width="80%">
 
@@ -115,11 +111,8 @@ J’utilise l’IA pour générer des symboles de kilim que j’intègre ensuite
 
 <img src="img/groupeIA/groupe3.png" alt="" width="100%">
 
-### IA critique
-Voir les connaissances de l'IA au sujet des kilim
-
 ### Wave function 
-Code qui permet de faire répéter une image sur VS Code 
+Code qui permet de faire répéter une image sur VS Code <br>
     https://www.youtube.com/watch?v=rI_y2GAlQFM
 Utilisation de mes dessins vectoriels pour le faire répéter en code 
 Utilisation des motifs générer par IA pour le faire répéter en code 
@@ -130,22 +123,7 @@ https://etz223.github.io/wavefunction/wavefunctioninterface/
 
 ### Artistes references <br>
 
-**Chloe Bensahel** est une artiste franco-américaine travaillant autour des relations entre les croyances, les matériaux, le texte et le textile. 
-Inspirée par sa propre histoire intergénérationnelle de migration entre le Maghreb, la France et les États-Unis, son travail examine comment les matériaux peuvent véhiculer des histoires à la manière des corps souvent dissimulés sous forme de langage incarné ou codé. Elle utilise des techniques de tissage traditionnelles en les mélangeant à des technologies modernes créant ainsi des installations interactives qui répondent à la lumière et au toucher. 
-
-Transplants, 2021 <br>
-Dans cette série nommée Transplants, elle imagine des récits autour des matériaux “exotiques” envahissants, des plantes déplacées qui parviennent néanmoins à fleurir et à se déplier. 
-Elle imagine des récits où les matériaux exotiques envahissent l’espace. Ses tapisseries racontent des histoires différentes abordant le sujet de l’épanouissement, la dislocation ou même l’expression sensoriel de la plante. 
-
-**Ahmed Faig** utilise des techniques mêlant l’artisanat traditionnel aux outils numériques. 
-Il intègre des motifs de tapis anciens dans des compositions modernes, souvent réinterprété à l'aide de logiciels et de procédés innovants pour explorer l'esthétique et la symbolique culturelle.
-
-**Ramazan Can** est un artiste contemporain où son travail s’appuie sur la transformation et la réinterprétation des tapis traditionnels d’Orient.
-En intégrant des leds sur les kilims, il joue sur la temporalité de l’objet et nous montre un nouveau moyen de le détourner.  
-
-En utilisant des codes informatiques et des panneaux LED, **Cem Sonel** explore de nouvelles techniques de production à l’intersection des nouveaux médias et du street art. En établissant un lien moderne entre la technologie, l'existence et le sens, Sonel souhaite questionner de manière analytique les similitudes entre le néant, l'existence et la non-existence.
-
-
+[Fichier pdf pour les références](./artiste.pdf)
 
 
 ### Accrochage 
@@ -196,11 +174,16 @@ Il est essentiel de comprendre et de s’adapter au rythme de la discussion, car
 Bien que l’intelligence artificielle puisse offrir une solution intéressante pour la traduction, elle n’est pas encore entièrement adaptée à mes exigences pour ce projet.  
   
 ### Discussion + Aide 
+<br>
+**Bastien** m'a beaucoup aider pour catégoriser mes symboles.
+<br><br>
 
-**Bastien** + ref donné par Bastien 
-**Valérie** 
+J'ai beaucoup discuter de nos avancées avec **Valérie** et on a vu ce qu'on pouvait améliorer comme par exemple notre discours ou notre intention. 
+<br><br>
 **Lita** m’a conseillé d’utiliser Claude, une intelligence artificielle où sa spécialité est le codage.
+<br><br>
 J'ai conseillé à **Anne-Sophie** de regarder le travail de Sougwen Chung. Travail entre l'homme et la machine.
+<br><br>
 **Hind** a lié mon projet de symbole avec les symboles Amazigh, on retrouve également un travail de mémoire et de narration.
 
 
