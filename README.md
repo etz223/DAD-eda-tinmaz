@@ -174,10 +174,9 @@ Il est essentiel de comprendre et de s’adapter au rythme de la discussion, car
 Bien que l’intelligence artificielle puisse offrir une solution intéressante pour la traduction, elle n’est pas encore entièrement adaptée à mes exigences pour ce projet.  
   
 ### Discussion + Aide 
-<br>
+
 **Bastien** m'a beaucoup aider pour catégoriser mes symboles.
 <br><br>
-
 J'ai beaucoup discuter de nos avancées avec **Valérie** et on a vu ce qu'on pouvait améliorer comme par exemple notre discours ou notre intention. 
 <br><br>
 **Lita** m’a conseillé d’utiliser Claude, une intelligence artificielle où sa spécialité est le codage.
@@ -185,6 +184,10 @@ J'ai beaucoup discuter de nos avancées avec **Valérie** et on a vu ce qu'on po
 J'ai conseillé à **Anne-Sophie** de regarder le travail de Sougwen Chung. Travail entre l'homme et la machine.
 <br><br>
 **Hind** a lié mon projet de symbole avec les symboles Amazigh, on retrouve également un travail de mémoire et de narration.
+
+### Contribution aux ressources
+Références artistiques <br>
+https://github.com/etz223/esad-art-numerique-ressources
 
 
 
