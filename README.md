@@ -116,6 +116,21 @@ Utilisation des motifs générer par IA pour le faire répéter en code
 
 Mon travail sur le Wave Function Collapse: <br>
 https://etz223.github.io/wavefunction/wavefunctioninterface/
+> Lorsqu'on clique, on télécharge l'image.
+
+Resultats : <br>
+<img src="img/tissage/wfc1.png" alt="" width="20%">
+<img src="img/tissage/wfc2.png" alt="" width="20%">
+<img src="img/tissage/wfc3.png" alt="" width="20%">
+<img src="img/tissage/wfc4.png" alt="" width="20%">
+<img src="img/tissage/wfc5.png" alt="" width="20%">
+<img src="img/tissage/wfc6.png" alt="" width="20%">
+<img src="img/tissage/wfc7.png" alt="" width="20%">
+<img src="img/tissage/wfc8.png" alt="" width="20%">
+
+> Même s'il y a du aléatoire dans le code, on perçoit un certain ordre et une organisation. 
+
+
 
 
 ### Artistes references <br>
